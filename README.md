@@ -54,6 +54,9 @@
 <a href="https://instagram.com/maykbrito" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-dev.gabrielvl-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
+  <a href="https://img.shields.io/badge/-devgabrielvl@gmail.com-05122A?style=flat&logo=none" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-GabrielLima-05122A?style=flat&logo=gmail" alt="instagram"/>
+</a>
 </p>
 
 
