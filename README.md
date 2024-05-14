@@ -4,8 +4,6 @@
 
 - 🔥 Sou Desenvolvedor Júnior
 
-- 🔭 Atualmente estou trabalhando no [Colégio MAC](https://www.instagram.com/colegiomacoficial/)
-
 - ▶️ Eu faço postagens regularmente [instagram/dev.gabrielvl](https://www.instagram.com/dev.gabrielvl/)
 
 - 💬 Pergunte-me sobre **JavaScript, Kotlin, HTML, CSS, MySQL, React**
