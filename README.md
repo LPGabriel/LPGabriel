@@ -2,8 +2,6 @@
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Eu sou o Gabriel Lima</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LPGabriel&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Sou Desenvolvedor Júnior
-
 - ▶️ Eu faço postagens regularmente [instagram/dev.gabrielvl](https://www.instagram.com/dev.gabrielvl/)
 
 - 💬 Pergunte-me sobre **JavaScript, Kotlin, PHP, HTML, CSS, MySQL, Laravel**
