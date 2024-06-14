@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/LPGabriel/fe2ec072f94cb2a5b877dba625280b39/raw/2210e8a6c3c2f93544de09af0a8d0d9befc5ae9d/githubcard.svg"/>
+<!--<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/LPGabriel/fe2ec072f94cb2a5b877dba625280b39/raw/2210e8a6c3c2f93544de09af0a8d0d9befc5ae9d/githubcard.svg"/>-->
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Eu sou o Gabriel Lima</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LPGabriel&color=yellow" alt="Profile views" /> </p>
 
