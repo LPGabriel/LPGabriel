@@ -4,7 +4,7 @@
 
 - ▶️ Eu faço postagens regularmente [instagram/dev.gabrielvl](https://www.instagram.com/dev.gabrielvl/)
 
-- 💬 Pergunte-me sobre **JavaScript, Kotlin, PHP, HTML, CSS, MySQL, Laravel**
+- 💬 Pergunte-me sobre **JavaScript, PHP, HTML, CSS, MySQL, Laravel e nextjs**
 <!--
 - ⚡ Curiosidades **Oneye 😜**
 
